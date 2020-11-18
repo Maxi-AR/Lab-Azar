@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1605649229 source:c:\users\administrator\desktop\juego laboratorio\juego dados azar\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<clocale>
+	"funciones.h"
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+	<conio.h>
+
+1605653090 c:\users\administrator\desktop\juego laboratorio\juego dados azar\funciones.h
+
+1605665738 source:c:\users\administrator\desktop\juego laboratorio\juego dados azar\funciones.cpp
+	"funciones.h"
+	<ctime>
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"rlutil.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1605125810 c:\users\administrator\desktop\juego laboratorio\juego dados azar\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
